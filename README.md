@@ -59,20 +59,20 @@ Cortex solves this by providing:
 # Tech Stack
 
 Backend\
-- Java 17\
+- Java 17
 - Spring Boot
 
-Database\
+Database
 - PostgreSQL
 
-Event Streaming\
+Event Streaming
 - Apache Kafka
 
-Infrastructure\
+Infrastructure
 - Docker
 
-Architecture\
-- Event-driven microservices\
+Architecture
+- Event-driven microservices
 - Distributed system design
 
 ------------------------------------------------------------------------
@@ -176,12 +176,12 @@ Supports:
 
 # Project Structure
 
-cortex-memory-service/
+cortex-memory-service
 
--   api-service/
--   memory-consumer/
--   database/
--   docker/
+-   api-service
+-   memory-consumer
+-   database
+-   docker
 -   README.md
 
 ------------------------------------------------------------------------
