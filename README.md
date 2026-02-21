@@ -58,7 +58,7 @@ Cortex solves this by providing:
 
 # Tech Stack
 
-Backend\
+Backend
 - Java 17
 - Spring Boot
 
